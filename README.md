@@ -59,5 +59,27 @@ Installation Process:
 
 -When prompted by Play protect just install anyway.
 
-![image](https://github.com/user-attachments/assets/b9f40db9-457a-41d1-a441-45c9f9fb3e92)
+
+-AFTER INSTALLATION
+
+-Read the dialog then act accordingly.
+
+-If you choose to Agree then Grant Superuser Request.
+
+-After Granting Superuser Permissions you should see something like this.
+
+![image](https://github.com/user-attachments/assets/130dd1c2-1061-4938-91a0-8824a1c98a3a)
+
+
+- I leave you guys the next step choose whatever settings you desire then click Unleash Button. A dialog should pop up shortly asking for confirmation I would like to remind you that if you confirm the option it will directly proceed to the automatic execution of commands then will automatically reboot the device(don't panic it's not a bug it's a feature).
+
+-After reboot the changes are automatically applied.
+
+BETA VERSION:
+
+In BETA this part of the app (sidebar) still hasn't given any codes so don't bother it's for future purposes
+
+-Thanks for reading. Enjoy :) 
+
+
 
