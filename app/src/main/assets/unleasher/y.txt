@@ -1,0 +1,16 @@
+debug.composition.type=gpu
+debug.egl.hw=1
+debug.enabletr=true
+debug.overlayui.enable=1
+debug.qctwa.preservebuf=1
+debug.performance.tuning=1
+debug.sf.hw=1
+dev.pm.dyn_samplingrate=1
+hw3d.force=1
+ro.config.disable.hw_accel=false
+ro.fb.mode=1
+ro.sf.compbypass.enable=0
+ro.vold.umsdirtyratio=20
+persist.sys.composition.type=c2d
+persist.sys.ui.hw=1
+video.accelerate.hw=1

@@ -1,0 +1,2 @@
+persist.cust.tel.eons=1
+ro.config.hw_fast_dormancy=1

@@ -1,0 +1,7 @@
+wifi.supplicant_scan_interval=220
+power.saving.mode=1
+ro.vold.umsdirtyratio=20
+proximity_incall=enable
+ro.config.hw_quickpoweron=true
+usb_wakeup=enable
+ro.config.hw_power_saving=true

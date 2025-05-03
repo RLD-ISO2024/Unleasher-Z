@@ -1,0 +1,5 @@
+#persist.sys.purgeable_assets=1
+persist.service.pcsync.enable=0
+persist.service.lgospd.enable=0
+#Hardware Power Saving
+ro.config.hw_power_saving=1

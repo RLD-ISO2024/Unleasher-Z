@@ -1,0 +1,4 @@
+ro.product.model=Redmi Note 9 Pro
+ro.product.manufacturer=Xiaomi
+ro.product.system.manufacturer=Xiaomi
+ro.product.system.model=Redmi Note 9 Pro

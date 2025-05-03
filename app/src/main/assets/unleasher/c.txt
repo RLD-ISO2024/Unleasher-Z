@@ -1,0 +1,5 @@
+windowsmgr.max_events_per_sec=300
+ro.max.fling_velocity=15000
+ro.min.fling_velocity=8000
+ro.min_pointer_dur=8
+touch.pressure.scale=0.1

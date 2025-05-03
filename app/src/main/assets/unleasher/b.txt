@@ -1,0 +1,4 @@
+ro.product.model=SO-52A
+ro.product.manufacturer=QUALCOMM
+ro.product.system.manufacturer=QUALCOMM
+ro.product.system.model=SO-52A

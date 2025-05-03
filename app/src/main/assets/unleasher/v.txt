@@ -1,0 +1,12 @@
+ro.secure=0
+persist.sys.use_16bpp_alpha=1
+ro.product.gpu.driver=1
+ro.min.fling_velocity=8000
+debug.gr.swapinterval=1
+debug.kill_allocating_task=0
+ENFORCE_PROCESS_LIMIT=false
+hw3d.force=1
+ro.debuggable=1
+ro.min_pointer_dur=1
+ro.min_pointer_dur=1
+ro.wmt.blcr.enable=0
